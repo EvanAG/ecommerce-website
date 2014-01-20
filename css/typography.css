@@ -1,10 +1,6 @@
 /*
   Colour Palette
-  - Dark green: #060 - rgb(0, 100, 0)
-  - Dark red: #600 - rgb(100, 0, 0)
- */
 
-/* 1CA388 
 Grey - #666666
 Purple - #2C0F3B
 Light Plum - #59323C
@@ -22,7 +18,7 @@ html {
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
-blockquote, table, hr {
+blockquote, table, {
   margin: 0 0 1.5rem;
 }
 
@@ -133,5 +129,70 @@ ul li:before {
 	position: absolute;
 	left: -1.2rem;
 }
+
+ blockquote {
+  margin: 0 2rem 0;
+}
+
+*:before, *:after { content: ''; }
+
+hr {
+  border: 0;
+  margin: 1.35em auto;
+  max-width: 100%;
+  background-position: 50%;
+  box-sizing: border-box;
+}
+
+.fade {
+  height: 1px;
+  background-image: linear-gradient(
+    90deg,
+    hsla(0, 0%, 100%, 0),
+    hsla(0, 0%, 100%, 0.5) 50%,
+    hsla(0, 0%, 100%, 0) 100%);
+}
+
+
+th {
+  padding-left: 2rem;
+  font-size: 0.8rem;
+  line-height: 2rem;
+  text-transform: uppercase;
+  font-family: Lato;
+  font-weight: 400;
+  color: #2C0F3B;
+} 
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 2rem;
+}
+
+thead {
+  border-bottom: solid 2px #666;
+}
+
+tbody tr {
+  border-bottom: solid 1px #666;
+}
+
+td {
+  font-size: 0.75rem;
+  padding-left: 2rem;
+  line-height: 2rem;
+ }
+
+
+cite {
+  color: #666666;
+}
+
+mark {
+  background-color: #F4EEBA;
+}
+
+
 
 
