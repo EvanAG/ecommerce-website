@@ -17,3 +17,10 @@
 .list-group-item-inline {
 	display: inline-block;
 }
+
+.product {
+	background-color: rgba(243,237,185,0.5);
+	padding: 1em;
+	border-radius: 10px;
+}
+
