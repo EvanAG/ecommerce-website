@@ -20,6 +20,7 @@
 
 .bucket-small,
  .bucket-big {
+ 	background-color: rgba(243,237,185,0.2);
  	margin-top: 2rem;
 	background-color: ;
 	padding: 1em;
