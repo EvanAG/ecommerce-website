@@ -32,3 +32,9 @@
 h1 {
 	text-transform: uppercase;
 }
+
+.btn-alt,
+.btn:hover {
+		opacity:.9;
+	}
+
