@@ -18,8 +18,12 @@
 	display: inline-block;
 }
 
-.bucket-small {
+.bucket-small,
+ .bucket-big {
+ 	margin-top: 2rem;
+	background-color: ;
 	padding: 1em;
 	border-radius: 10px;
 	border: 2px solid rgba(44,15,59,1);
 }
+
