@@ -2,9 +2,13 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Buttons</title>
-  <link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+  <title>Header</title>
+  <link href='http://fonts.googleapis.com/css?family=Lato:100,400,900' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Gentium+Basic' rel='stylesheet' type='text/css'>  
   <link href="../css/typography.css" rel="stylesheet">
+  <link href="../css/header.css" rel="stylesheet">
+  <link href="../css/forms.css" rel="stylesheet">
+
  
 </head>
 
@@ -12,18 +16,22 @@
 <body>
 
 	<header>
-			<h1>Crescent Wine</h1>
-			<a href="#nav" class="nav-btn hide-text" data-state="inactive">Navigation</a>
-			<nav class="nav nav-top" data-state="collapsed">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="schedule.html">About</a></li>
-					<li><a href="prices.html">Contact</a></li>
-				</ul>
-			</nav>
 
-		</header>
+		<a href="index.html"></a><img src="../images/logo.svg" alt="logo" class="logo">
 
-<script src="js/nav.js"></script>
+		<nav class="nav-search">
+	        <a href="#">Home</a> 
+	        <a href="#">About</a> 
+	        <a href="#">Blog</a>
+    	
+
+		<form class="searchform cf">
+		  <input type="terax text" placeholder="Search">
+		  <button type="submit">Search</button>
+		</form> 
+
+		</nav>
+
+	</header>	
 </body>
 </html>
