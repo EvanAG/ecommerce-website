@@ -1,5 +1,4 @@
 @charset "UTF-8";
-/* CSS Document */
 @-moz-viewport { width: device-width; scale: 1;}
 @-ms-viewport { width: device-width; scale: 1;}
 @-webkit-viewport { width: device-width; scale: 1;}
@@ -15,11 +14,20 @@ html {
 	text-size-adjust: 100%;	
 }
 
-
-* { box-sizing: border-box; }
-
 body { 
 	font-family: Arial, sans-serif; 
+}
+
+.logo {
+	padding: 3rem;
+	width: 20%;
+	top: -2rem;
+	left: -3rem;
+	position: absolute;
+}
+
+img {
+	width: 20%;
 }
 
 
