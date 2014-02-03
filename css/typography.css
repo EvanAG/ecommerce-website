@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5, h6,
 	font-weight: 400;
 }
 
+p {
+  font: normal 100%/1.5 Gentium Basic,serif; 
+  color: #59323C;
+}
 
 .brand-family {
 	font-family: Lato,sans-serif;
