@@ -45,11 +45,13 @@ a,a:visited {
 --------------------------------------------------------------*/
 .searchform {
   background:#FFF;
-	left: 80%;
   padding: 2px 5px;
+  text-align: right;
   position: absolute;
-	margin: -22px 0 0 -170px;
-	top: 13%;
+	margin: auto;
+	top: 30%;
+	float: right;
+	overflow: hidden;
   width:339px;
   box-shadow:  0 4px 9px rgba(0,0,0,.37);
 }
