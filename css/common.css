@@ -28,3 +28,15 @@ html {
 .cf:after {
     clear:both;
 }
+
+.flex-img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.flex-img-small {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
