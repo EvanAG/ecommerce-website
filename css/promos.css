@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+img {
+	width: 100%;
+}
+
 .list-group {
 	list-style-type: none;
 }
@@ -20,9 +24,8 @@
 
 .bucket-small,
  .bucket-big {
- 	background-color: rgba(243,237,185,0.2);
- 	margin-top: 2rem;
-	background-color: ;
+ 	margin: 0.5rem;
+	background-color: rgba(243,237,185,0.2);
 	padding: 1em;
 	border-radius: 10px;
 	border: 2px solid rgba(44,15,59,1);
