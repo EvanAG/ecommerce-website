@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Crescent Wine</title>
+  <title>{{page.title}} · Crescent Wine</title>
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -35,7 +35,6 @@
     <ul class="links">
       <li><a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</li>
       <li><a class="{% if page.url contains 'about' %}current{% endif %}" href="{{site.baseurl}}/about/">About</li>
-      <li><a class="{% if page.url contains 'thank-you' %}current{% endif %}" href="{{site.baseurl}}/thank-you/">Thank You</li>
     </ul>
 
     <form class="searchform cf">
@@ -47,6 +46,11 @@
 
 </header> 
 
+{% if page.showbanner %}
+<div class="banner">
+  <h2>{{page.bannertext}}</h2>
+</div>
+{% endif %}
 
 {{content}}
 
@@ -57,14 +61,14 @@
 
     <ul class="social">
       <li>
-        <a class="ease-all" href="#" target="_blank">
+        <a class="ease-all" href="la" target="_blank">
           <i class="fa fa-facebook"></i>
           <span class="hide-text">Facebook</span>
         </a>
       </li>
 
       <li>
-        <a class="ease-all" href="#" target="_blank">
+        <a class="ease-all" href="la" target="_blank">
           <i class="fa fa-twitter"></i>
           <span class="hide-text">Twitter</span>
         </a>
