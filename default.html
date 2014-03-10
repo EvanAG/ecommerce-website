@@ -25,7 +25,7 @@
 
 <header>
 
-  <img src="../images/logo.svg" alt="logo" class="logo">
+  <img src="{{site.baseurl}}/images/logo.svg" alt="logo" class="logo">
 
   <a href="#nav" class="nav-btn hide-text">Navigation</a>
   
@@ -45,7 +45,7 @@
   </nav>
 
 </header> 
-
+<!--
 <header class="masthead island push-0">
   <div class="grid grid-bottom">
     <div class="unit unit-s-1 unit-m-1 unit-l-1-3">
@@ -67,32 +67,46 @@
     </nav>
   </div>
 </header>
+-->
+
+{% if page.showbanner %}
+<div class="banner">
+  <h2>{{page.bannertext}}</h2>
+</div>
+{% endif %}
+
 
 {{content}}
 
-<footer class="footer pad-t">
-  <div class="grid">
-    <div class="unit unit-s-1 unit-m-1 unit-l-1-2 gutter-1-2">
-      <p class="footer-copyright"><small>© 2014 Crescent Wine</small></p>
-    </div>
-    <div class="unit unit-s-1 unit-m-1 unit-l-1-2 gutter-1-2">
-      <ul class="list-group footer-links">
-        <li class="list-group-item list-group-item-inline">
-          <a href="#" class="icon-link icon i-16 i-facebook ir">Facebook</a>
+<footer>
+
+    <section>
+
+
+      <ul class="social">
+        <li>
+          <a class="ease-all" href="https://www.facebook.com/scion" target="_blank">
+            <i class="fa fa-facebook"></i>
+            <span class="hide-text">Facebook</span>
+          </a>
         </li>
-        <li class="list-group-item list-group-item-inline">
-          <a href="#" class="icon-link icon i-16 i-twitter ir">Twitter</a>
+
+        <li>
+          <a class="ease-all" href="https://twitter.com/scion" target="_blank">
+            <i class="fa fa-twitter"></i>
+            <span class="hide-text">Twitter</span>
+          </a>
         </li>
-        <li class="list-group-item list-group-item-inline">
-          <a href="#" class="icon-link icon i-16 i-googleplus ir">Google+</a>
-        </li>
-        <li class="list-group-item list-group-item-inline">
-          <a href="#" class="icon-link icon i-16 i-pinterest ir">Pinterest</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</footer>
+
+      </ul> 
+
+      <a class="terms" href="#">Terms and Conditions</a>
+
+      <h5>Copyright CrescentWine 2014</h5>
+
+    </section>  
+
+  </footer> 
 
 </body>
 </html>	
