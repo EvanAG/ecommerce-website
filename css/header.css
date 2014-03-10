@@ -5,7 +5,6 @@
 }
 
 nav ul {
-	position: fixed;
 	width: 100%;
 	top: 0;
 	text-align: center;
@@ -54,8 +53,23 @@ img {
 @media only screen and (min-width: 26.25em) {
 
 	.logo {
-		height: 8rem;
+		height: 5rem;
 		width: auto;
 	}
 
+}
+
+.banner {
+  background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  padding: 25rem 0 1rem 0;
+}
+
+.banner h2 { 
+  color: #fff;
+}
+
+.banner h2 {
+	color: #fff;
 }	
