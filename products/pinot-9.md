@@ -1,9 +1,10 @@
 ---
 layout: products
 category: white
-name: Crazing Cat
-age: 30 years
+name: XO Riesling
+age: 2012
 type: Pinot Noir 
+image: pinot-9.jpg
 ---
 
 

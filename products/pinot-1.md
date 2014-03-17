@@ -1,9 +1,10 @@
 ---
 layout: products
 category: red
-name: Crazing Cat
+name: Porter and Plot Pinot Gris
 age: 30 years
 type: Pinot Noir 
+image: pinot-1.jpg
 ---
 
 

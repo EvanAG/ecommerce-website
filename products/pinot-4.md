@@ -1,9 +1,10 @@
 ---
 layout: products
 category: red
-name: Crazing Cat
-age: 30 years
+name: The Independent Pinot Noir
+age: 2012
 type: Pinot Noir 
+image: pinot-4.jpg
 ---
 
 

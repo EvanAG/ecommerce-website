@@ -1,9 +1,10 @@
 ---
 layout: products
 category: white
-name: Crazing Cat
-age: 30 years
+name: Full Sleeve White Wine Blend
+age: 2012
 type: Pinot Noir 
+image: pinot-8.jpg
 ---
 
 

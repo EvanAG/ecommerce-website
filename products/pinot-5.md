@@ -1,9 +1,10 @@
 ---
 layout: products
 category: white
-name: Crazing Cat
-age: 30 years
+name: Rockwell Merlot
+age: 2011
 type: Pinot Noir 
+image: pinot-5.jpg
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 layout: products
 category: white
-name: Crazing Cat
-age: 30 years
+name: Emsworth Cellars White Blend
+age:  2011
 type: Pinot Noir 
+image: pinot-6.jpg
 ---
 
 

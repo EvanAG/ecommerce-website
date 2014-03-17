@@ -1,9 +1,10 @@
 ---
 layout: products
 category: red
-name: Crazing Cat
-age: 30 years
+name: Wayward Wine Co. Pinot Noir
+age: 2011
 type: Pinot Noir 
+image: pinot-2.jpg
 ---
 
 

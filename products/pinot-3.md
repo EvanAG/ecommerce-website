@@ -1,9 +1,10 @@
 ---
 layout: products
 category: red
-name: Crazing Cat
-age: 30 years
+name: Oliver Row Cabernet Franc
+age: 2012
 type: Pinot Noir 
+image: pinot-3.jpg
 ---
 
 
