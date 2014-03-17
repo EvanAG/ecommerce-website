@@ -1,0 +1,24 @@
+---
+layout: default
+category: white
+title: White Wines
+showbanner: yes
+meta: "Shop white wines"
+---
+
+
+<div class="grid">
+	<p class="unit unit-s-1 unit-m-1 unit-l-1">Shop by Category</p>
+	<ul>
+	{% for products in site.pages %}
+		{% if products.category == 'white'}
+		<li>
+			<a href="{{site.baseurl}}{{products.url}}">
+				{{products.wine_name}}
+			</a>	
+		</li>
+		{ % endif %}
+	{% endfor %}
+	</ul>	
+
+</div>		
