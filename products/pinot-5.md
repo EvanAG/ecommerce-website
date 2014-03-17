@@ -1,6 +1,6 @@
 ---
 layout: default
-category: red
+category: white
 name: Crazing Cat
 age: 30 years
 type: Pinot Noir 
