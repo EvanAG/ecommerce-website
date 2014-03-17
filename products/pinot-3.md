@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: products
 category: red
 name: Crazing Cat
 age: 30 years

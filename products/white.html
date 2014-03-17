@@ -1,6 +1,6 @@
 ---
 layout: default
-category: white
+category: category
 title: White Wines
 showbanner: yes
 meta: "Shop white wines"
@@ -14,10 +14,10 @@ meta: "Shop white wines"
 		{% if products.category == 'white' %}
 		<li>
 			<a href="{{site.baseurl}}{{products.url}}">
-				{{products.wine_name}}
+				{{products.name}}
 			</a>	
 		</li>
-		{ % endif %}
+		{% endif %}
 	{% endfor %}
 	</ul>	
 

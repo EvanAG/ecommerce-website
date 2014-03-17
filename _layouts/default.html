@@ -19,15 +19,12 @@
   <link href="{{site.baseurl}}/css/media-object.css" rel="stylesheet">
   <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
   <link href="{{site.baseurl}}/css/grid.css" rel="stylesheet">
-
-
-
 </head>
 <body>
 
 <header>
 
-  <img src="../images/logo.svg" alt="logo" class="logo">
+  <img src="{{site.baseurl}}/images/logo.svg" alt="logo" class="logo">
 
   <a href="#nav" class="nav-btn hide-text">Navigation</a>
   
@@ -36,7 +33,7 @@
     <ul class="links">
       <li><a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</li>
       <li><a class="{% if page.url contains 'about' %}current{% endif %}" href="{{site.baseurl}}/about/">About</li>
-      <li><a class="{% if page.url contains 'shop' %}current{% endif %}" href="{{site.baseurl}}/shop/">Shop</li>
+      <li><a class="{% if page.url contains 'products' %}current{% endif %}" href="{{site.baseurl}}/products/">Shop</li>
     </ul>
 
     <form class="searchform cf">
@@ -49,9 +46,9 @@
 </header> 
 
 {% if page.showbanner %}
-<div class="banner">
-  <h2>{{page.bannertext}}</h2>
-</div>
+  <div class="banner">
+    <h2>{{page.bannertext}}</h2>
+  </div>
 {% endif %}
 
 {{content}}
@@ -84,7 +81,6 @@
   </section>  
 
 </footer> 
-
 
 </body>
 </html>	

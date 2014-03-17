@@ -12,12 +12,11 @@ meta: "Shop red and white wines"
 		{% if products.category == 'category' %}
 		<li>
 			<a href="{{site.baseurl}}{{products.url}}">
-				{{products.wine_name}}
+				{{products.title}}
 			</a>	
 		</li>
-		{ % endif %}
+		{% endif %}
 	{% endfor %}
 	</ul>	
-
 </div>		
 
