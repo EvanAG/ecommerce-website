@@ -11,7 +11,7 @@ meta: "Shop red wines"
 	<p class="unit unit-s-1 unit-m-1 unit-l-1">Shop by Category</p>
 	<ul>
 	{% for products in site.pages %}
-		{% if products.category == 'red'}
+		{% if products.category == 'red' %}
 		<li>
 			<a href="{{site.baseurl}}{{products.url}}">
 				{{products.wine_name}}
