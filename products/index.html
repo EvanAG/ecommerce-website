@@ -9,8 +9,15 @@ meta: "Shop red and white wines"
 	<p class="unit unit-s-1 unit-m-1 unit-l-1">Shop by Category</p>
 	<ul>
 	{% for products in site.pages %}
-		{% if }
-		<li></li>
+		{% if products.category == 'category'}
+		<li>
+			<a href="{{site.baseurl}}{{products.url}}">
+				{{products.wine_name}}
+			</a>	
+		</li>
+		{ % endif %}
+	{% endfor %}
+	</ul>	
 
 </div>		
 
