@@ -1,7 +1,7 @@
 ---
 layout: products
 category: red
-name: Porter and Plot Pinot Gris
+name: Brethren of the Road Syrah	
 age: 30 years
 type: Pinot Noir 
 image: pinot-1.jpg

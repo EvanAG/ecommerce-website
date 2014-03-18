@@ -26,7 +26,7 @@ html {
     display:table;
 }
 .cf:after {
-    clear:both;
+    clear: both;
 }
 
 .flex-img {
@@ -42,5 +42,5 @@ html {
 }
 
 .current {
-  color: red;
+  background-color: red;
 }
