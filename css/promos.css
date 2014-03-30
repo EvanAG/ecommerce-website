@@ -11,7 +11,6 @@
 
 .list-group-item:before {
 	content:"";
-
 }
 
 .list-group-item {
@@ -26,19 +25,16 @@
  .bucket-big {
  	margin: 0.5rem auto;
 	background-color: rgba(243,237,185,0.2);
-	padding: 1em;
-	border-radius: 10px;
-	border: 2px solid rgba(44,15,59,1);
+	padding: 3em;
 }
 
 .promo-small{
-	background-color: #c7c0ae;
-	border-radius: 10px;
+	border-right: 1px solid 
 }
 
-.promo-group .unit:last-child .promo-small {
-	background-color: gold;
+/*.promo-group .unit:last-child .promo-small {
+	background-color: 000;
 }
-
+*/
 
 

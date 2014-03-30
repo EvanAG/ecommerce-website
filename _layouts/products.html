@@ -6,8 +6,8 @@ layout: default
 
 <h1>{{page.name}}</h1>
 
-<div class="grid">
-	<img class="unit units-s-1 unit-m-1-2 unit-l-1-3" src="{{site.baseurl}}/images/{{page.image}}">
+<div class="gutter grid">
+	<img class="unit unit-s-1 unit-m-1-2 unit-l-1-3" src="{{site.baseurl}}/images/{{page.image}}">
 	<dl class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
 		<dt>Name</dt>
 		<dd>{{page.name}}</dd>
@@ -15,12 +15,11 @@ layout: default
 		<dd>{{page.age}}</dd>
 		<dt>Type</dt>
 		<dd>{{page.type}}</dd>
+		<dt><a class="btn" href="{{site.baseurl}}/cart">Add to Cart</a><dt>
 	</dl>	
 
 	<div class="unit unit-s-1 unit-m-1 unit-l-1">
 		{{content}}
-
-	<a class="btn" href="{{site.baseurl}}/cart">Add to Cart</a>	
 
 	</div>
 </div>	

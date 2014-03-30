@@ -6,9 +6,11 @@ showbanner: yes
 meta: "Shop red wines"
 ---
 
+<a href="{{site.baseurl}}/products/{{page.products}}">Return to Wines</a>
+
 <div class="grid">
 	<p class="unit unit-s-1 unit-m-1 unit-l-1">Shop by Category</p>
-	<ul class= "unit unit-s-1 unit-m-1 unit-l-1">
+	<ul class="unit unit-s-1 unit-m-1 unit-l-1">
 	{% for products in site.pages %}
 		{% if products.category == 'red' %}
 		<li>

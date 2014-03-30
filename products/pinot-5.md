@@ -1,8 +1,8 @@
 ---
 layout: products
 category: white
-name: Rockwell Merlot
-age: 2011
+name: La Reina Torrontes
+age: 2013
 type: Pinot Noir 
 image: pinot-5.jpg
 ---
