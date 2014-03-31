@@ -49,7 +49,17 @@ img {
 	width: 20%;
 	height: 20%;
 	margin: 1rem;
+
 }
+
+.logo:hover {
+	opacity:.5;
+	-webkit-transition: color 350ms ease-in-out;
+	-moz-transition: color 350ms ease-in-out;
+    -ms-transition: color 350ms ease-in-out;
+    -o-transition: color 350ms ease-in-out;
+	transition: color 350ms ease-in-out;
+	}
 
 @media only screen and (min-width: 26.25em) {
 

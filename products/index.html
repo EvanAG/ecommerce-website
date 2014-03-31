@@ -10,7 +10,7 @@ meta: "Shop red and white wines"
 	<ul class="unit unit-s-1 unit-m-1 unit-l-1">
 	{% for products in site.pages %}
 		{% if products.category == 'category' %}
-		<li>
+		<li class="unit unit-s-1 unit-m-1 unit-l-1">
 			<a href="{{site.baseurl}}{{products.url}}">
 				{{products.title}}
 			</a>	

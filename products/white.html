@@ -13,9 +13,9 @@ meta: "Shop white wines"
 	<ul class="unit unit-s-1 unit-m-1 unit-l-1">
 	{% for products in site.pages %}
 		{% if products.category == 'white' %}
-		<li>
+		<li class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
 			<a href="{{site.baseurl}}{{products.url}}">
-				<img class="unit units-s-1 unit-m-1-2 unit-l-1-3" src="{{site.baseurl}}/images/{{products.image}}">
+				<img class="flex-img" src="{{site.baseurl}}/images/{{products.image}}">
 				{{products.name}}
 			</a>	
 		</li>
