@@ -23,13 +23,13 @@
 </head>
 <body>
 
-<header>
+<header role="banner">
 
   <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/logo.svg" alt="logo" class="logo"></a>
 
-  <a href="#nav" class="nav-btn hide-text">Navigation</a>
+  <!--<a href="#nav" class="nav-btn hide-text">Navigation</a>-->
   
-  <nav class="nav nav-top" data-state="collapsed">
+  <nav class="nav nav-top" data-state="collapsed" role="navigation">
     
     <ul class="links">
       <li><a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a></li>
@@ -37,7 +37,7 @@
       <li><a class="{% if page.url contains 'products' %}current{% endif %}" href="{{site.baseurl}}/products/">Shop</a></li>
     </ul>
 
-    <form class="searchform cf" method="get" action="{{site.baseurl}}/search/">
+    <form class="searchform cf" method="get" action="{{site.baseurl}}/search/" role="search">
       <input type="terax text" placeholder="Search">
       <button type="submit">Search</button>
     </form> 
@@ -75,7 +75,7 @@
 
     </ul> 
 
-    <a class="terms" href="#">Terms and Conditions</a>
+    <a class="terms" href="#" role="contentinfo">Terms and Conditions</a>
 
     <h5>Copyright CrescentWine 2014</h5>
 
