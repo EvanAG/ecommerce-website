@@ -42,5 +42,5 @@ html {
 }
 
 .current {
-  color: #FFF;
+  background-color: rgba(243,237,185,0.2);
 }
