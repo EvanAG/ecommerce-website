@@ -39,7 +39,7 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
+- {Almost all participants wanted to click on promos on first page. No major problems}
 - etc.
 
 ### Serious, Causes Frustration, May Hinder Completion

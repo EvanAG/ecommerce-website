@@ -2,12 +2,12 @@
 
 User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
 
-- {Jared Lebel}
-- {Hasan Yavuz}
-- {Daniela Chavez-Ackermann}
-- {Shawna Guy}
-- {Chelsey Frohlick}
-- {Taylor Doe}
+- {Stephen Pollock - Tab}
+- {Hasan Yavuz - Voiceover}
+- {Daniela Chavez-Ackermann - Voiceover}
+- {Shawna Guy - Tab}
+- {Chelsey Frohlick - Voiceover}
+- {Mark Collantes - Tab}
 
 ## Tasks
 
@@ -23,37 +23,26 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 - Subject did not like program (voiveover).
 - Once getting accompanied with program, subject made excellent progress. 
-- Finished tasks quickly and easily
+- Finished tasks quickly and easily once confortable with program.
 
-### {John Doe}
+### {Stephen Pollock}
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+- All tasks were completed quickly and easily.
 
-### {Jordan Doe}
+### {Shawna Guy}
+- Easily completed tasks.
 
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+### {Daniela Chavez-Ackermann}
 
-### {Theresa Doe}
+- She completed all tasks quickly. She did not like voiceover either.
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
-- etc.
+### {Mark Collantes}
 
-### {Todd Doe}
+- Completed tasks very quickly and with satisfaction.
 
-- {He completed the task as expected…}
-- {He had troubles completing a specific task…}
-- etc.
+### {Hasan Yavuz}
 
-### {Taylor Doe}
-
-- {They completed the task as expected…}
-- {They had troubles completing a specific task…}
-- etc.
+- Had no problems with site. Navigated very fast.
 
 ---
 
@@ -61,15 +50,12 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- There were no critical errors mentioned.
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- Voiceover was teh only concern to each participant.
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- There was nothing annoying in the site mentioned.

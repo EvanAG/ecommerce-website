@@ -102,7 +102,7 @@ a,
 a:link {
 	color: #2C0F3B;
 	text-decoration: none;
-	/*border-bottom: 0.07em solid rgba(44,15,49,0.5);*/
+	border-bottom: 0.07em solid rgba(44,15,49,0.5);
 	transition: all 200ms linear;
 }
 
@@ -176,7 +176,6 @@ td {
   padding-left: 2rem;
   line-height: 2rem;
  }
-
 
 cite {
   color: #666666;
@@ -253,5 +252,4 @@ mark {
 .cart {
   border-bottom: 1px solid rgb(156,115,95);
   border-spacing: 10px;
-
 }
