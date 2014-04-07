@@ -44,10 +44,9 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- No serious frustrations to fix.
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- List in shop page was scewed, and SLO red wine showed up in unnecessary places.
+
