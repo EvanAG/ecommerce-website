@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-
+/*
 .img {
 	width: 100%;
 }
@@ -26,10 +26,19 @@
  	margin: 0.5rem auto;
 	background-color: rgba(243,237,185,0.2);
 	padding: 3em;
-}
+}*/
 
 .promo-small{
-	border-right: 1px solid 
+	border-right: 1px solid #000;
+}
+.promo-small a,
+.promo-small a:link,
+.promo-small a:visited {
+	display: block;
+	border: 0;
+}
+.promo-small a:hover {
+	opacity: .6;
 }
 
 /*.promo-group .unit:last-child .promo-small {
