@@ -21,7 +21,8 @@ blockquote, table, {
   margin: 0 0 1.5rem;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6,
+p {
   text-align: center;
 }
 
@@ -87,6 +88,7 @@ p {
   color: #666;
   padding-left: 6rem;
   padding-right: 6rem ;
+  text-align: center;
 }
 
 .brand-family {
@@ -150,7 +152,6 @@ ul li:before {
  blockquote {
   margin: 0 2rem 0;
 }
-
 
 th {
   padding-left: 2rem;
