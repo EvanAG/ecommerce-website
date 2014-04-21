@@ -21,8 +21,7 @@ blockquote, table, {
   margin: 0 0 1.5rem;
 }
 
-h1, h2, h3, h4, h5, h6,
-p {
+h1 {
   text-align: center;
 }
 
@@ -44,6 +43,7 @@ h1, .exa {
 h2, .peta {
   font-size: 1.6018rem;
   line-height: 1.8729;
+  text-align: center;
 }
 
 h3, .tera {
@@ -86,8 +86,8 @@ h1, h2, h3, h4, h5, h6,
 p {
   font: normal 100%/1.5 Gentium Basic,serif; 
   color: #666;
-  padding-left: 6rem;
-  padding-right: 6rem ;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem ;
   text-align: center;
 }
 
@@ -258,4 +258,13 @@ mark {
 .cart {
   border-bottom: 1px solid rgb(156,115,95);
   border-spacing: 10px;
+}
+
+@media only screen and (min-width: 45em) {
+
+    p {
+      padding-left: 6rem;
+      padding-right: 6rem;
+    }
+    
 }

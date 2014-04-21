@@ -49,3 +49,10 @@ html {
   padding: 1rem;
 }
 
+.white-products {
+  border-bottom: 1px solid rgb(243,237,185);
+}
+
+.red-products {
+  border-bottom: 1px solid rgb(89,50,60);
+}
