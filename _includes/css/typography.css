@@ -25,6 +25,10 @@ h1 {
   text-align: center;
 }
 
+li {
+  text-align: center;
+}
+
 .yotta {
   font-size: 2.2807rem;
   line-height: 1.3154;
