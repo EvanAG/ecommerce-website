@@ -28,15 +28,17 @@
 	padding: 3em;
 }*/
 
-.promo-small{
-	border-right: 1px solid #000;
+.promo-large {
+	border-bottom: 1px solid rgb(89,50,60);
 }
+
 .promo-small a,
 .promo-small a:link,
 .promo-small a:visited {
 	display: block;
 	border: 0;
 }
+
 .promo-small a:hover {
 	opacity: .6;
 }

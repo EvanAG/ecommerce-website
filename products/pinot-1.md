@@ -8,4 +8,6 @@ image: pinot-1.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget vehicula neque, eu vulputate nulla. Morbi eros sapien, consectetur sit amet fringilla sit amet, tempor et lectus. Vivamus consequat diam id posuere aliquam. Fusce luctus, erat nec egestas vestibulum, urna turpis lacinia dolor, eu mollis enim quam sit amet metus. Nullam tempor est nec massa elementum, eu semper est tincidunt. Curabitur molestie iaculis nulla eget venenatis.
+When your evening calls for a taste of a classic beauty, the Rockwell Zinfandel should be at the top of your list. Showcasing original California varietals, Rockwell wines are all about contemporary elegance and the refined notion of sitting down to simply enjoy a great tasting glass. Good wines take great expertise, time and attention to create. 
+
+So if anything, an open bottle provides us the best excuse to slow down, savor the flavors, and appreciate a moment in time. Pour a glass of this silky, sexy Zin. Its full-bodied flavor oozes rich raspberry jam and wild strawberries that will leave you with long, luscious finish. She packs a punch (15.6% alcohol by volume), so there’s not need to rush. This is a glass you’ll want to enjoy sip after sip.

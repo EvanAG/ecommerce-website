@@ -8,4 +8,6 @@ image: pinot-7.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget vehicula neque, eu vulputate nulla. Morbi eros sapien, consectetur sit amet fringilla sit amet, tempor et lectus. Vivamus consequat diam id posuere aliquam. Fusce luctus, erat nec egestas vestibulum, urna turpis lacinia dolor, eu mollis enim quam sit amet metus. Nullam tempor est nec massa elementum, eu semper est tincidunt. Curabitur molestie iaculis nulla eget venenatis.
+The wines of Washington state continue to gain international accolades and attention for their winemaker’s unique twists on traditional classics. Benefiting from the Yakima Valley’s cool climate, the Porter & Plot Pinot Gris is unlike any Italian Grigio you’ve ever come across. 
+
+Italian Pinot Gs skew toward light-bodied and steely, offering far fewer aromatics than this American interpretation that is bursting with vivacious floral scents and tropical citrus flavors. Its crisp, palate-tingling acidity and mineral kick make it great to pair with halibut, salmon, chicken and Asian cuisine. 

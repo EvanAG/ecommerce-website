@@ -13,7 +13,6 @@ html {
 	text-size-adjust: 100%;	
 }
 
-
 *,*:after,*:before {
   box-sizing:border-box;
   -moz-box-sizing:border-box;
@@ -25,6 +24,7 @@ html {
     content:"";
     display:table;
 }
+
 .cf:after {
     clear: both;
 }
@@ -44,3 +44,8 @@ html {
 .current {
   background-color: rgba(243,237,185,0.2);
 }
+
+.product-shop {
+  padding: 1rem;
+}
+

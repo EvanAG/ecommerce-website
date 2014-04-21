@@ -8,4 +8,6 @@ image: pinot-3.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget vehicula neque, eu vulputate nulla. Morbi eros sapien, consectetur sit amet fringilla sit amet, tempor et lectus. Vivamus consequat diam id posuere aliquam. Fusce luctus, erat nec egestas vestibulum, urna turpis lacinia dolor, eu mollis enim quam sit amet metus. Nullam tempor est nec massa elementum, eu semper est tincidunt. Curabitur molestie iaculis nulla eget venenatis.
+A winemaker's playground is the field. Soil, sunlight and rain play games all year long to get ready for the big harvest. And while technologies change and evolve to the winemaker’s benefit - from old Oliver tractors to high-speed machinery - the goal is always the same: grow and harvest the crops with care and let Mother Nature do her best with the rest.
+
+Dirty and earthy Cab Franc is the best expression of this mantra, and Oliver Row spotlights 100% of the grape typically used for blending in a bottle that opens with aromas of dried herbal seasoning and satiates with dark cherry, plum and sage flavors. Enjoy it lasagna, pepperoni, black olives, or polenta.

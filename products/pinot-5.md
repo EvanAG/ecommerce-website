@@ -8,4 +8,4 @@ image: pinot-5.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget vehicula neque, eu vulputate nulla. Morbi eros sapien, consectetur sit amet fringilla sit amet, tempor et lectus. Vivamus consequat diam id posuere aliquam. Fusce luctus, erat nec egestas vestibulum, urna turpis lacinia dolor, eu mollis enim quam sit amet metus. Nullam tempor est nec massa elementum, eu semper est tincidunt. Curabitur molestie iaculis nulla eget venenatis.
+Torrontés is the hottest thing to arrive from Argentina since the tango. Not to be confused with Spain’s Torrontés (that’s a completely different fruit), the Argentine queen is a leader of the pack. She’s highly aromatic, exuberantly floral, with a rich, hothouse citrus scent - a whiff will have you wondering whether La Reina should be sold as a wine or a perfume. But one sip will have you lining up for another pour of her tropical peach, apricot, and kiwi flavors that come with a crisp, zingy pop. Queue your clique because this ringleader knows how to rock a party.

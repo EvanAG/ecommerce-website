@@ -8,4 +8,4 @@ image: pinot-2.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget vehicula neque, eu vulputate nulla. Morbi eros sapien, consectetur sit amet fringilla sit amet, tempor et lectus. Vivamus consequat diam id posuere aliquam. Fusce luctus, erat nec egestas vestibulum, urna turpis lacinia dolor, eu mollis enim quam sit amet metus. Nullam tempor est nec massa elementum, eu semper est tincidunt. Curabitur molestie iaculis nulla eget venenatis.
+Wayward is the realization of the entrepreneurial spirit, a tribute to the independent attitude of the willful trailblazer. Conceived by three friends - all with strong views on winemaking - Wayward Wine is the result of a journey. The three friends made a pact to leave cowboy country and head west to the Golden State with the goal of changing the way people discover and drink wine. Every time you drink Wayward Wine think of it as a message in a bottle, using natural fruits and exciting flavors to tell the story of this trio’s quest.
